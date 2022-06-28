@@ -8,7 +8,7 @@
   "description": "full ecommerce site using mern",
   "main": "server.js",
   "scripts": {
-    "start": "node server.js",
+    "start":"node server.js",
     "dev": "set NODE_ENV=DEVELOPMENT& nodemon server",
     "prod": "set NODE_ENV=PRODUCTION& nodemon server",
     "seeder": "node utils/seeder.js"
